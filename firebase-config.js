@@ -1,0 +1,1 @@
+window.FBCFG={apiKey:"AIzaSyB1da_zIbtDrIsI2TCtDZics8A4iRiEz14",authDomain:"run-companion-fe379.firebaseapp.com",projectId:"run-companion-fe379",storageBucket:"run-companion-fe379.firebasestorage.app",messagingSenderId:"1099438229765",appId:"1:1099438229765:web:8d8e033fd18809ecb28f6c"};
